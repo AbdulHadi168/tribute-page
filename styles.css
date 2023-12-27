@@ -1,0 +1,33 @@
+h1, .hero{ 
+  text-align:center;
+}
+body{
+  background-color:#D3D3D3;
+}
+#image{
+  max-width:100%;
+  display: block;
+  height:auto ;
+  margin: 0 auto;
+}
+#img-div{
+  background-color:white;
+}
+#img-caption{
+  font-size:20px;
+  text-align:center;
+}
+.center{ 
+  text-align:center;
+}
+ul{
+  text-align:left;
+  width:70%;
+  margin:0 auto;
+}
+h3{
+  text-align:center;
+}
+li{
+  margin:16px 0;
+}
